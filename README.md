@@ -12,7 +12,7 @@ Using county-level data, I tested how income, permitting relative to housing sto
 - HUD Building Permits Survey (permits)
 - US Census (housing stock)
 - SAIPE (median income)  
-- Census Population Estimates (growth)  
+- Bureau of Economic Analysis Estimates (growth)  
 - USDA RUCC codes (urban/rural dummy)  
 - NOAA Coastal Counties list  
 - Zillow Home Value Index (dependent variable)  
