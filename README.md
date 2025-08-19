@@ -1,6 +1,6 @@
 # Housing Permitting & Prices – Empirical Research
 
-This repository contains my UC Davis ECN 140 empirical project analyzing how housing permitting activity affects U.S. residential housing prices (2021-2022).
+This repository contains my research analyzing how housing permitting activity affects U.S. residential housing prices across 344 counties (2021-2022).
 
 ## Abstract
 Using county-level data, I tested how income, permitting relative to housing stock, population growth, and geography (urban/rural, coastal) influence home values. Results show that:
