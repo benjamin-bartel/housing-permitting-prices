@@ -1,9 +1,7 @@
-****************************************************
-** ECN 140 Empirical Project – Benjamin Bartel    **
-****************************************************
+***************************************************
+**      Empirical Project – Benjamin Bartel      **
+***************************************************
 
-global proj "C:\Users\marcu\OneDrive\Desktop\ECN 140\Empirical Project"
-import excel "${proj}\ECN 140 EMPIRICAL PROJECT.xlsx", sheet("COMPOSITE") firstrow
 drop if ZHVI <= 0
 
 ds YEAR, not
@@ -149,4 +147,5 @@ label variable _est_reg_q~2022     "Sample Marker – Quadratic Fit OLS (ZHVI on
 label variable _est_reg_fe         "Sample Marker – Fixed Effects Panel Regression (2021–2022)"
 label variable _est_ft_quad~s      "Sample Marker – OLS Model Used in F-Test"
 label variable _est_ft_fe          "Sample Marker – FE Model Used in F-Test"
+
 
