@@ -19,4 +19,4 @@ Using county-level data, I tested how income, permitting relative to housing sto
 
 ## Key Files
 - [Full Research Paper (PDF)](./housing_project.pdf)
-- [Stata Code (.do)](./analysis.do)
+- [Stata Code (.do)](./housing_analysis.do)
