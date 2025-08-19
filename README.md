@@ -1,4 +1,4 @@
-# Housing Permitting & Prices – Empirical Research Project
+# Housing Permitting & Prices – Empirical Research
 
 This repository contains my UC Davis ECN 140 empirical project analyzing how housing permitting activity affects U.S. residential housing prices (2021-2022).
 
