@@ -18,5 +18,5 @@ Using county-level data, I tested how income, permitting relative to housing sto
 - Zillow Home Value Index (dependent variable)  
 
 ## Key Files
-- [Full Research Paper (PDF)](./housing_project)  
-- [Stata Code (.do)](./analysis)  
+- [Full Research Paper (PDF)](./paper/housing_project.pdf)
+- [Stata Code (.do)](./code/analysis.do)
